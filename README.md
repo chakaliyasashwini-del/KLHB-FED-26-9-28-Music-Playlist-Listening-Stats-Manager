@@ -1,8 +1,7 @@
 KLHB-FED-26-9-28-Music Playlist & Listening-Stats Manager
 
 Team Members:Yasashwini (2620030206) 
-
-Janani (2620040056) 
+             Janani (2620040056) 
 
 Supervisor Name:Rakesh.K  
 
